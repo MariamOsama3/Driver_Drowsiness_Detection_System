@@ -3,7 +3,8 @@
 A smart mobile application that detects sleepy drivers using the phone's camera and wakes them up with escalating alerts (sound → light → vibration) through Firebase-connected devices.
 
 🔥 Key Features
-👁️ Real-time Eye Tracking and mouth - Monitors driver's eyes and yawn or not
+- Real-time Eye Tracking - Monitors driver's eyes
+- Real-time mouths Tracking - Monitors driver yawn or not
 
 📳 Smart Alert System - 3-stage warning:
 
